@@ -1,16 +1,15 @@
-### Hi there 👋
+## Salve! Sou o ✨Lucas Cordeiro do Vale ✨
 
-<!--
-**CordeiroDoVale/CordeiroDoVale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estudante de Engenharia de Computação (7/10)
+- 🌱 Front-end: HTML, CSS, JS; Back-end: NodeJs, postgreSQL
+- 👯 Em busca do primeiro estágio
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/CordeiroDoVale">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CordeiroDoVale&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CordeiroDoVale&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+##  
