@@ -1,7 +1,7 @@
 ## Salve! Sou o ✨Lucas Cordeiro do Vale ✨
 
-- 🔭 Estudante de Engenharia de Computação (9/10)
-- 🌱 Front-end: React.Js, HTML, CSS, JS; Back-end: NodeJs, postgreSQL
+- 🔭 Estudante de Engenharia de Computação
+- 🌱 Front-end: React.Js, Tailwind CSS; Back-end: Next.js 13, NodeJs, postgreSQL
 - 👯 Em busca do primeiro emprego
 
 ##
